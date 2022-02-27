@@ -7,10 +7,14 @@ This is a 5 String Banjo I decided to make
 
 # Model
   The banjo1.fcstd File is the CAD File for the whole banjo.<br>
+  
   Fret lengths were found using the <a href="https://www.ekips.org/tools/guitar/fretfind2d/">FretFind2D Tool</a>. 
-  A scale length of 26.375'' or 669.925mm was used. This is a standard full sized 5 String Open Back Banjo.
+ 
+  A scale length of 26.375'' or 669.925mm was used.
   
+  This is a standard full sized 5 String Open Back Banjo.
   
+  <img src="https://github.com/caleb221/CNC_BANJO/blob/main/BANJO_IMG/Screenshot%20from%202022-02-28%2000-18-53.png" width=500 height=300></img>
   
 # BUILD
 
@@ -36,11 +40,11 @@ This is a 5 String Banjo I decided to make
    
    I used the drill press to make these 8 holes. Along with 2 7/16'' holes on each end for the 1/4'' threaded dowel rod, tailpiece and neck attachment.
    
-   <b>I had pictures of this process, but halfway through my phone decided to shut off, losing those pictures forever</b>
+   <b>I had pictures of this process, but halfway through my phone decided to die, losing those pictures forever</b>
     
    <img src="https://github.com/caleb221/CNC_BANJO/blob/main/BANJO_IMG/IMG_20220122_133209.jpg" width=250 height=300></img>
    <img src="https://github.com/caleb221/CNC_BANJO/blob/main/BANJO_IMG/IMG_20220122_133220.jpg" width=250 height=300></img> 
-    
+   <img src="https://github.com/caleb221/CNC_BANJO/blob/main/BANJO_IMG/IMG_20220226_140308.jpg" width=250 height=300></img> 
     Note: The model is a bit oversized, which allows for discrepencies that arise when the rings are glued together and so that the 11'' inner diameter can be reached using the flush trim bit.
     Most of the wood preparation measurements can be found in the NON_CNC folder.
     There are also bits of information on building jigs and how to make one without a CNC.
@@ -103,14 +107,80 @@ This is a 5 String Banjo I decided to make
   
   <b>RIM Finishing steps:</b><br>
   
+  At this point, apply any wood finish desired to the rim and let it dry. I used Boiled Linseed Oil and some minwax golden Oak.
+  
+  Once dry (a few days usually), test how the hardware fits together, make sure all hooks grab onto the tension ring.
+  
+  Also make sure the tension ring holds down the flesh hoop tightly.
+  
+  Disassemble and prepare the parts for the last time.
+  
+  Soak a calfskin (at least 13'' in diameter) in warm water for at least 30 minutes.
+  
+  Wrap the skin in the flesh hoop and get it in place on the rim.
+  
+  Put the tension hoop in place along with the J-Hooks.
+  
+  <img src="https://github.com/caleb221/CNC_BANJO/blob/main/BANJO_IMG/IMG_20220126_202018.jpg" width=250 height=300></img>
+  <img src="https://github.com/caleb221/CNC_BANJO/blob/main/BANJO_IMG/IMG_20220126_202050.jpg" width=250 height=300></img>
+  
+  Tighten the J-Hooks <b>SLOWLY</b>. 
+  
+  Cut off the excess skin using a box cutter or any knife.
+  
+  <img src="https://github.com/caleb221/CNC_BANJO/blob/main/BANJO_IMG/IMG_20220127_214726.jpg" width=250 height=300></img>
+  
+  The skin will dry out over the next day, tighten as it will allow.
+  
   <b>NECK:</b><br>
+  
+  Glue up the appropriate boards. I used Poplar but any hardwood will do great!
+  
+  Cut out the neck blank using the CNC. This will require you to flip the workpiece.
+  
+  The top side should be cut first as it contains the "truss" rod and that must be centered within the neck.
+  
+  Cut the backside. Round out the edges with a 3/4'' roundover bit.
+  
+  Cut out the heel blank, glue it to the neck blank using dowels to align.
+  
+  Glue the 3/4'' steel square bar into the neck using silicon or glue of your choice.
+  
+  <img src="https://github.com/caleb221/CNC_BANJO/blob/main/BANJO_IMG/IMG_20220216_194526.jpg" width=250 height=300></img>
+  
+  Cut out the appropriate headstock holes.
+  
+  Cut out the 5th string peg.
+  
+  Drill 2 holes at a 5 degree angle for the hangar bolt attachment to the rim.
   
   <b>Finger Board:</b><br>
   
+  Prepare any 1/4'' hardwood slat onto the CNC.
+  
+  Cut out the artwork and contour, then backfill the artwork with epoxy resin.
+  
+  <img src="https://github.com/caleb221/CNC_BANJO/blob/main/BANJO_IMG/IMG_20220213_120630.jpg" width=250 height=300></img>
+  <img src="https://github.com/caleb221/CNC_BANJO/blob/main/BANJO_IMG/IMG_20220214_215156.jpg" width=250 height=300></img>
+  
+  Fret the neck or fill in the fret slots with epoxy for a "fretless" banjo.
+  
+  level, sand, and crown the frets if thats the way you went. 
+  
+  I had enough fret wire for 12 frets, and the rest are epoxied in. A half and half compromise
+  
+  Glue onto the neck.
+  
   <b>MISC:</b><br>
-
+   Flesh Hoop: I used a 1/8'' Brass rod threaded and held together with a coupling nut.
+   
+   TailPiece: I used extra wood from the fretboard and a copper wire tied onto a 1/4'' bolt sticking out the back. 
+   
+   Bridge: While I did design this, I used a bridge I had obtained earlier from a banjo I built in High School.
+   
 # Tools
     Open Builds LEAD1010 CNC
+    Drill Press Vise
     Drill Press (the cheaper harbor freight did this job just fine for me)
     Angle Grinder
     Power Drill
@@ -119,6 +189,3 @@ This is a 5 String Banjo I decided to make
     Pull Saw
     Miter Box with 22.5 Degree slot
     Clamps
-    
-# BOM
-
