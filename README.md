@@ -189,3 +189,7 @@ This is a 5 String Banjo I decided to make
     Pull Saw
     Miter Box with 22.5 Degree slot
     Clamps
+
+<img src="https://github.com/caleb221/CNC_BANJO/blob/main/BANJO_IMG/IMG_20220226_140142.jpg" width=300 height=350></img>
+<img src="https://github.com/caleb221/CNC_BANJO/blob/main/BANJO_IMG/IMG_20220226_140230.jpg" width=300 height=350></img>
+<img src="https://github.com/caleb221/CNC_BANJO/blob/main/BANJO_IMG/IMG_20220226_140205.jpg" width=300 height=350></img>
