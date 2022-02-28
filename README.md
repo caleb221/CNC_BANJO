@@ -63,6 +63,8 @@ This is a 5 String Banjo I decided to make
     
     Heat the steel ring until it is red hot and braze the steel with flux and a bronze rod. 
     
+    Use an Angle grinder to remove the excess flat bar, and deburr across the top.
+    
   <br>
     
   <b>J hooks and Brackets:</b>
