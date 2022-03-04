@@ -185,11 +185,11 @@ The rim and neck are both made from Poplar, while the fretboard is made from Oak
 # Tools
     Open Builds LEAD1010 CNC (or anything 
     Drill Press Vise
-    Drill Press (the cheaper harbor freight did this job just fine for me)
+    Drill Press (the cheaper harbor freight one did this job just fine for me)
     Angle Grinder
     Power Drill
     MAP/Butane Blow torch
-    Taps / Dies
+    Taps / Dies (SAE 1/4'' and 1/8'')
     Pull Saw
     Draw knife / spokeshave 
     Wood/Metal Rasp
@@ -198,30 +198,32 @@ The rim and neck are both made from Poplar, while the fretboard is made from Oak
     Clamps
     Safety stuff
 # BOM
-Poplar wood (1''X3/4''X 15')
-Oak wood (1/4'' X 1'' x 4')
-Calfskin 16''
-1/4'' steel round rod
-1/8'' Brass rod
-1'' coupling nuts
-1'' bolt
-18 guage steel flat bar
-1/4'' hanger bolt
-1/4'' coupling nut
-1/4'' threaded rod
-1/4'' nut
-1/4'' bolt
-Fret wire
-Banjo Planetary tuning pegs (with 5th string peg)
-bridge (if not making the one designed)
+    Poplar wood 
+    Oak wood 
+    Calfskin 16'' diamter (thin, but a thick on would work just as well)
+    1/4'' steel round stock ( ~5 Feet)
+    1/4'' steel square stock (~3 feet)
+    1/8'' Brass rod 
+    1'' coupling nuts
+    1'' bolt
+    18 guage steel flat bar
+    1/4'' hanger bolt
+    1/4'' coupling nut
+    1/4'' threaded rod
+    1/4'' nut
+    1/4'' bolt
+    1/8'' coupling nut
+    Fret wire
+    Banjo Planetary tuning pegs (with 5th string peg)
+    bridge (if not making the one designed)
 
 # Consumables:
-  Epoxy Resin
-  Brazing Rods
-  Epoxy Resin
-  Mica Powder
-  Boiled Linseed Oil/Japan Dryer
-  Sand Paper
+    Epoxy Resin
+    Brazing Rods
+    Epoxy Resin
+    Mica Powder
+    Boiled Linseed Oil/Japan Dryer
+    Sand Paper
 
 <img src="https://github.com/caleb221/CNC_BANJO/blob/main/BANJO_IMG/IMG_20220226_140142.jpg" width=300 height=350></img>
 <img src="https://github.com/caleb221/CNC_BANJO/blob/main/BANJO_IMG/IMG_20220226_140230.jpg" width=300 height=350></img>
