@@ -1,5 +1,7 @@
 # CNC_BANJO
-This is a 5 String Banjo I decided to make
+This is a full sized 5 string Open Back Banjo I decided to make.<br>
+It uses nylong strings, planetary geared tuners, a calfskin head and is Texas themed.<br>
+The rim and neck are both made from Poplar, while the fretboard is made from Oak.
 
  <img src="https://github.com/caleb221/CNC_BANJO/blob/main/BANJO_IMG/IMG_20220226_140109.jpg" width=350 height=450></img>
  <img src="https://github.com/caleb221/CNC_BANJO/blob/main/BANJO_IMG/Screenshot%20from%202022-02-28%2000-18-32.png" width=300 height=350></img>
@@ -18,7 +20,7 @@ This is a 5 String Banjo I decided to make
   
 # BUILD
 
-  <b>RIM Wood:</b><br>
+  <b>RIM Ring:</b><br>
    To prepare the wood from a stick to a ring (without a steam bender or lathe)
    first cut out 8 segments of your wood stock according to<br> <a href="https://github.com/caleb221/CNC_BANJO/blob/main/NON_CNC_PLANS/BluestemBanjoRimSegmentGuide.pdf"> Blue Stem Rim Segment Guide (copy)</a>.
    I cut 36 segments of the 8 segment 11'' rim, which totaled 4 rings and a depth of about 3'' for the rim.
@@ -181,16 +183,45 @@ This is a 5 String Banjo I decided to make
    Bridge: While I did design this, I used a bridge I had obtained earlier from a banjo I built in High School.
    
 # Tools
-    Open Builds LEAD1010 CNC
+    Open Builds LEAD1010 CNC (or anything 
     Drill Press Vise
     Drill Press (the cheaper harbor freight did this job just fine for me)
     Angle Grinder
     Power Drill
-    MAP Blow torch
+    MAP/Butane Blow torch
     Taps / Dies
     Pull Saw
+    Draw knife / spokeshave 
+    Wood/Metal Rasp
+    Metal Files
     Miter Box with 22.5 Degree slot
     Clamps
+    Safety stuff
+# BOM
+Poplar wood (1''X3/4''X 15')
+Oak wood (1/4'' X 1'' x 4')
+Calfskin 16''
+1/4'' steel round rod
+1/8'' Brass rod
+1'' coupling nuts
+1'' bolt
+18 guage steel flat bar
+1/4'' hanger bolt
+1/4'' coupling nut
+1/4'' threaded rod
+1/4'' nut
+1/4'' bolt
+Fret wire
+Banjo Planetary tuning pegs (with 5th string peg)
+bridge (if not making the one designed)
+
+# Consumables:
+  Epoxy Resin
+  Brazing Rods
+  Epoxy Resin
+  Mica Powder
+  Boiled Linseed Oil/Japan Dryer
+  Sand Paper
 
 <img src="https://github.com/caleb221/CNC_BANJO/blob/main/BANJO_IMG/IMG_20220226_140142.jpg" width=300 height=350></img>
 <img src="https://github.com/caleb221/CNC_BANJO/blob/main/BANJO_IMG/IMG_20220226_140230.jpg" width=300 height=350></img>
