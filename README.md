@@ -200,7 +200,7 @@ The rim and neck are both made from Poplar, while the fretboard is made from Oak
 # BOM
     Poplar wood 
     Oak wood 
-    Calfskin 16'' diamter (thin, but a thick on would work just as well)
+    Calfskin 16'' diamter (thin, but a thick one would work just as well)
     1/4'' steel round stock ( ~5 Feet)
     1/4'' steel square stock (~3 feet)
     1/8'' Brass rod 
