@@ -214,12 +214,14 @@ The rim and neck are both made from Poplar, while the fretboard is made from Oak
     1/4'' bolt
     1/8'' coupling nut
     Fret wire
+    Imitation bone Nut blank
     Banjo Planetary tuning pegs (with 5th string peg)
     bridge (if not making the one designed)
 
 # Consumables:
     Epoxy Resin
     Brazing Rods
+    Super Glue
     Epoxy Resin
     Mica Powder
     Boiled Linseed Oil/Japan Dryer
