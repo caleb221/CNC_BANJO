@@ -198,8 +198,8 @@ The rim and neck are both made from Poplar, while the fretboard is made from Oak
     Clamps
     Safety stuff
 # BOM
-    Poplar wood 
-    Oak wood 
+    Poplar wood (1''X3'' X ~14' is what I used)
+    Oak wood  (1/4'' X 3'' X ~4')
     Calfskin 16'' diamter (thin, but a thick one would work just as well)
     1/4'' steel round stock ( ~5 Feet)
     1/4'' steel square stock (~3 feet)
