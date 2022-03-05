@@ -204,14 +204,15 @@ The rim and neck are both made from Poplar, while the fretboard is made from Oak
     1/4'' steel round stock ( ~5 Feet)
     1/4'' steel square stock (~3 feet)
     1/8'' Brass rod 
-    1'' coupling nuts
-    1'' bolt
+    1/2'' coupling nuts
+    1/2'' X 1'' Bolt
+    1/2'' Flat washer
     18 guage steel flat bar
     1/4'' hanger bolt
     1/4'' coupling nut
-    1/4'' threaded rod
+    1/4'' X 1' threaded rod
     1/4'' nut
-    1/4'' bolt
+    1/4''X 2'' bolt
     1/8'' coupling nut
     Fret wire
     Imitation bone Nut blank
